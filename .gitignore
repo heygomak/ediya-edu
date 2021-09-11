@@ -1,0 +1,7 @@
+.idea/
+venv/
+ediya_edu/views/node_modules/
+ediya_edu/config/env/
+ediya_edu/config/__pycache__/
+ediya_edu/apps/__pycache__/
+ediya_edu/apps/commom/__pycache__/
